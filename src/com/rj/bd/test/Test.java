@@ -18,7 +18,7 @@ public class Test {
 		
 		System.out.println("ÀΩ‘ø£∫"+privateKey);
 		
-		System.out.println("ÀΩ‘øΩ‚√‹£∫"+PasswordUtils.jieMi(privateKey));
+		System.out.println("Ω‚√‹£∫"+PasswordUtils.jieMi(privateKey));
 		
 		
 	}
